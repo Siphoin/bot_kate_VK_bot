@@ -85,5 +85,4 @@ for event in longpoll.listen():
           if msg == "курс валют":
               showExchangeRate()
           if msg == "сколько сейчас времени?":
-              now = datetime.datetime.now()
-              sendMessage(id, now.strftime("%H:%M"))
+              showTime()
