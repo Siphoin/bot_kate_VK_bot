@@ -1,2 +1,2 @@
 # bot_kate_VK_bot
- bot VK on python
+ bot VK on python (for group)
